@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -11,7 +11,7 @@ header {
 }
 
 header nav li {
-    diplay: inline;
+    display: inline;
     margin-left: 16px;
     font-size: 24px;
 }
@@ -22,14 +22,14 @@ header nav li a {
 }
 
 .continer {
-    max-width: 1280px
-    width: 100%
+    max-width: 1280px;
+    width: 100%;
     margin:0 auto;
 }
 
 header .container{
-    display:flex;
-    align-items: center
+    display: flex;
+    align-items: center;
     justify-content: space-between;
 }
 
