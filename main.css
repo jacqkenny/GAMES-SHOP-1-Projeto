@@ -7,7 +7,7 @@
 header {
     padding: 16px 0;
     background-color: #182c61;
-    color: #ecf0f1
+    color: #ecf0f1;
 }
 
 header nav li {
@@ -17,17 +17,17 @@ header nav li {
 }
 
 header nav li a {
-    color: #ecf0f1
+    color: #ecf0f1;
     text-decoration: none;
 }
 
 .continer {
     max-width: 1280px;
     width: 100%;
-    margin:0 auto;
+    margin: 0 auto;
 }
 
-header .container{
+header .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
